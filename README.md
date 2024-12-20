@@ -29,6 +29,9 @@ Analytics and sales reporting.
 Customer-facing web portal.
 Mobile app integration.
 
-# Contact 
+# Contact and links
 Github: https://github.com/abdimalik-omar
+
 Repo Link: https://github.com/abdimalik-omar/MEATIFY-CLI-PROJECT-PHASE-3
+
+Slides: https://docs.google.com/presentation/d/1A6omlmR5rPhu6OSqbuc22mtUYT-lJGisVAIpLysGkhI/edit?usp=sharing
